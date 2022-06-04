@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dheerendra singh Tomar
 - 👀 I’m interested in learning New Technologies
 - 🌱 I’m currently learning Network Security
-- 📫 Reach me @www.linkedin.com/in/dheerendrada
+- 📫 Reach out to me @www.linkedin.com/in/dheerendrada
 - 
 
 <!---
