@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheerendra singh Tomar
 - 👀 I’m interested in learning New Technologies
-- 🌱 I’m currently learning Network Security
+- 🌱 I’m currently learning LangChain Agents etc
 - 📫 Reach out to me @www.linkedin.com/in/dheerendrada
 - 
 
